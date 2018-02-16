@@ -1,4 +1,4 @@
 # test
 
-west content
+west content  
 local content
